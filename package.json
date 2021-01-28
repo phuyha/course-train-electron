@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "electron": "^5.0.2",
+    "electron": "^9.4.0",
     "electron-rebuild": "^1.8.4",
     "jquery": "^3.4.1",
     "mysql": "^2.17.1"
